@@ -12,15 +12,17 @@ Using reports, a small dataset, and a few qualitative responses, we aim to ident
 2. What types of programs or supports (scholarships, NGOs, online initiatives, mentoring) currently help them access or stay in higher education?
 3. Where do learners and practitioners see the biggest gaps in support?
 
+---
+
 ## Planned Structure of the Repository
 
+We use a simple four-folder structure:
+
 - `0_domain_study/` – background and literature (context, key sources)
-- `1_datasets/` – small datasets (public stats + simple survey or program table)
-- `2_data_preparation/` – cleaning and preparation notes
-- `3_data_exploration/` – basic charts and descriptive analysis
-- `4_data_analysis/` – main findings and interpretation
-- `5_communication_strategy/` – how we will share results (report, slides)
-- `6_final_presentation/` – slides + final report
+- `1_dataset/` – the main dataset(s) used in the project (public stats and/or small survey)
+- `2_data_analysis/` – notebooks or notes for cleaning, exploring, and analyzing the data
+- `3_final_results/` – final report, key figures/tables, and presentation slides
+
 ---
 
 ## Team Members
@@ -37,26 +39,16 @@ Using reports, a small dataset, and a few qualitative responses, we aim to ident
 ```text
 /REPO-NAME-HERE
 |
-├── README.md                     # Main project overview
+├── README.md                 # Main project overview
 |
-├── 0_domain_study/              # Domain background research
+├── 0_domain_study/          # Domain background and literature
 │   └── README.md
 |
-├── 1_datasets/                  # Raw and processed datasets
+├── 1_dataset/               # Main dataset(s) and documentation
 │   └── README.md
 |
-├── 2_data_preparation/          # Data cleaning and transformation
+├── 2_data_analysis/         # Data cleaning, exploration, and analysis
 │   └── README.md
 |
-├── 3_data_exploration/          # Exploratory data analysis (EDA)
-│   └── README.md
-|
-├── 4_data_analysis/             # Main data analysis and findings
-│   └── README.md
-|
-├── 5_communication_strategy/    # Audience and communication plan
-│   └── README.md
-|
-└── 6_final_presentation/        # Final report and slides
+└── 3_final_results/         # Final report, figures, and slides
     └── README.md
-
