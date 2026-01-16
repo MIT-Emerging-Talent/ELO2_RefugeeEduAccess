@@ -33,41 +33,36 @@ and other post-secondary programs.
 
 
 - [**UNHCR – Higher Education and Skills**](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills)  
-  - Global overview of refugee access to higher education, noting that
-   only about **7%** of refugees reach tertiary education.  
-  - Describes key barriers (financial, legal, language, digital) and 
-  support pathways such as scholarships and connected learning.
 
 - [**UNHCR – 15by30 Higher-Education Roadmap**](https://www.unhcr.org/sites/default/files/2023-12/15by30-roadmap.pdf)  
-  - Strategy to expand refugee higher-education enrolment from ~7% 
-  to **15% by 2030**, across five main pathways (national systems, 
-  scholarships, connected learning, TVET, self-reliance).  
-  - Provides concrete actions for governments, universities, and NGOs
-   to coordinate efforts.
 
 - [**DAFI – UNHCR Tertiary Scholarship Programme for Refugees**](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)  
-  - One of the main global scholarship schemes funding refugee 
-  students in undergraduate programmes in their country of asylum.  
-  - Covers tuition and basic living costs and pairs financial aid 
-  with mentoring and academic support.
 
 - [**IOM – Feasibility Study on Higher-Education Scholarships for Refugees**](https://www.iom.int/sites/g/files/tmzbdl486/files/documents/ERN%2Bfeasibility-study-Higher-Education-Scholarships-for-Refugees.pdf)  
-  - Analytical report comparing in-country, third-country, and 
-  online scholarship models for refugees.  
-  - Identifies design lessons, risks, and good practices for 
-  building effective, scalable scholarship pathways.
 
 - [**Tertiary Education for Syrian Refugees in Lebanon**](https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2018-2019/20190402_tertiary_education_syrian_refugees_lebanon.pdf)  
-  - Policy brief on financial, legal, and language barriers that 
-  Syrian refugees face when trying to enter Lebanese universities.  
-  - Includes enrolment figures and highlights gaps in existing 
-  scholarship and support programmes.
 
 - [**Syrian Refugee Students in Lebanese Higher Education: Recognition of Qualifications and Beyond**](https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2019-2020/20190107_syrian_refugee_students_in_lebanese_higher_education.pdf)  
-  - Research report focused on documentation and 
-  qualification-recognition issues for Syrian refugee students.  
-  - Provides data tables and case analysis showing how missing or 
-  unrecognised credentials block access to higher education.
+
+- **[SUCRE Publication on Global Education Responsibility](https://www.uni-koeln.de/sites/international/aaa/92/92pdf/GlobalResponsibility/SUCRE/92pdf_IO1_Publikation_web.pdf)**
+
+- **[UNESCO Report on Higher Education](https://www.refworld.org/sites/default/files/2024-11/unesco.pdf)**
+
+- **[JSTOR Article – Higher Education Challenges](https://www.jstor.org/stable/48649578?seq=10)**
+
+- **[Humanitarian Migrants and Education Report (UQ)](https://www.acses.edu.au/app/uploads/2021/03/Perales_UQ_HumanitarianMigrants_FINAL.pdf)**
+
+- **[Regional Strategic Dialogue on Refugee & Stateless Persons](https://aprrn.org/media/Publications/files/Summary-Report_Regional_Strategic_Dialogue_on_Refugee_and_Stateless_C_XQtqK1F.pdf)**
+
+- **[How Kiron Meets Refugees’ Needs (Kiron.ngo)](https://www.kiron.ngo/post/how-kiron-meets-refugees-needs-highlighted-in-latest-unhcr-report)**
+
+- **[How AI Could Ease the Refugee Crisis (Harvard Library)](https://www.library.hbs.edu/working-knowledge/how-ai-could-ease-the-refugee-crisis-and-bring-new-talent-to-businesses)**
+
+- **[Using Machine Learning to Help Refugees Succeed (Stanford HAI)](https://hai.stanford.edu/news/using-machine-learning-help-refugees-succeed)**
+
+- **[Journal Article on Refugee Support Strategies *(PDF)*](https://www.jsr.org/hs/index.php/path/article/download/2973/1376/24339)**
+
+
 
 
 ## 4. Technical Approach
