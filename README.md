@@ -1,43 +1,79 @@
-# Access to Higher Education for Refugee Youth 
+# 🚀 ELO2_RefugeeEdu_AI
+
+![MIT Emerging Talent](https://img.shields.io/badge/MIT-Emerging%20Talent-blue)
+![ELO2](https://img.shields.io/badge/Track-ELO2-success)
+![Python](https://img.shields.io/badge/Python-3.9+-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+🎯 **MIT Emerging Talent – ELO2 Project**
+
+*Bridging Refugee Access to Higher Education with Data Science and AI*
+
+---
 
 ## Project Overview
 
-This project explores how refugee and displaced youth in Lebanon access higher education.  
-We focus on the main barriers they face (financial, legal, language, digital) and the programs or initiatives that help them enter or continue university studies.  
-Using reports, a small dataset, and a few qualitative responses, we aim to identify key challenges and practical opportunities for improving access.
+This project looks at the main challenges that prevent refugee and displaced
+youth from accessing higher education, including financial, legal, and language
+barriers. Instead of only describing these difficulties, the project focuses on
+how technology can help turn challenges into opportunities.
+
+It examines how AI-assisted matching tools could connect refugee students with
+suitable scholarships and academic pathways based on their needs and
+background. The goal is to move beyond identifying disadvantages and toward
+developing practical, scalable digital approaches that support greater access
+to higher education for refugees worldwide.
+
 
 ## Research Questions
 
-1. What are the main barriers that refugee youth in Lebanon face when trying to access higher education?
-2. What types of programs or supports (scholarships, NGOs, online initiatives, mentoring) currently help them access or stay in higher education?
-3. Where do learners and practitioners see the biggest gaps in support?
+1. What barriers and information gaps limit refugee youth in the world from
+   accessing higher education opportunities?
 
----
+2. What higher education support programs currently exist, and where do gaps in
+   accessibility and awareness remain?
+
+3. How can data science and AI-assisted tools help connect refugee learners with
+   more suitable scholarships and academic pathways?
+
 
 ## Planned Structure of the Repository
 
-We use a simple four-folder structure:
+We use a simple five-folder structure:
 
-- `0_domain_study/` – background and literature (context, key sources)
-- `1_dataset/` – the main dataset(s) used in the project (public stats and/or small survey)
-- `2_data_analysis/` – notebooks or notes for cleaning, exploring, and analyzing the data
-- `3_final_results/` – final report, key figures/tables, and presentation slides
+- [`0_domain_study/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/0_domain_study) – Background research and
+  literature review (context, key sources)
 
----
+- [`1_dataset/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/1_datasets) – Main dataset(s) used in the project,
+  including public statistics and small survey data
+
+- [`2_data_analysis/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/2_data_analysis) – Notebooks and notes for
+  data cleaning, exploration, and analysis
+
+- [`3_final_results/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/3_final_results) – Final report, key figures,
+  tables, and presentation slides
+
+- [`collaboration/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/collaboration) – Project planning
+
 
 ## Team Members
 
 - [Mohamad Naim Ziadah]([https://github.com/your-github-username](https://github.com/mohamad-755))
 - [Anas Ziadah]([https://github.com/teammate-github-username](https://github.com/ziadahanass))
 
----
+
+## License 
+
+This project is licensed under the **MIT License**.
+📄 [View License](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/blob/main/LICENSE)
+
 
 ## Repository Structure
 
 ```text
-/REPO-NAME-HERE
+ELO2_RefugeeEdu_AI
 |
-├── README.md                 # Main project overview
+├── README.md                # Main project overview
 |
 ├── 0_domain_study/          # Domain background and literature
 │   └── README.md
@@ -48,5 +84,9 @@ We use a simple four-folder structure:
 ├── 2_data_analysis/         # Data cleaning, exploration, and analysis
 │   └── README.md
 |
-└── 3_final_results/         # Final report, figures, and slides
+├── 3_final_results/         # Final report, figures, and slides
+│   └── README.md
+|
+└── collaboration/           # Team coordination and project planning
     └── README.md
+
