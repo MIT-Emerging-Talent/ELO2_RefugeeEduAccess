@@ -15,6 +15,16 @@ the barriers they face, and the role of scholarships and support programmes.
   - public **national universities** in host countries  
   - **scholarship programmes** (e.g., DAFI)  
   - **connected learning** or blended online–offline programmes.
+  - Fewer than **10% of refugee youth** globally access higher education.
+- By comparison, global tertiary enrolment among non-refugee youth exceeds
+  **40%**.
+- This represents a **30+ percentage-point gap** in access.
+- Global initiatives aim to raise refugee participation to **15% by 2030**.
+- Most refugee students who reach higher education do so via:
+  - national universities in host countries
+  - scholarship-supported pathways
+  - blended or connected learning models.
+
 
 ---
 
@@ -84,24 +94,3 @@ play out in a specific national context:
 | Existing Supports               | A mix of local and international actors (universities, NGOs, donors, and schemes like DAFI) provide scholarships, language support, and some preparatory programmes. |
 | Remaining Gaps                  | Support is fragmented and small in scale. Many eligible students are not reached, and structural issues (residency, recognition of qualifications, long-term funding) remain unresolved. |
 
----
-
-## 📚 Sources
-
-- UNHCR – Higher Education and Skills  
-  <https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills>
-
-- UNHCR – 15by30 Higher-Education Roadmap  
-  <https://www.unhcr.org/sites/default/files/2023-12/15by30-roadmap.pdf>
-
-- UNHCR / German Federal Foreign Office – DAFI Tertiary Scholarship Programme  
-  <https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0>
-
-- IOM – Feasibility Study on Higher-Education Scholarships for Refugees  
-  <https://www.iom.int/sites/g/files/tmzbdl486/files/documents/ERN%2Bfeasibility-study-Higher-Education-Scholarships-for-Refugees.pdf>
-
-- El-Ghali et al. (2019) – *Tertiary Education for Syrian Refugees in Lebanon* (AUB – IFI)  
-  <https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2018-2019/20190402_tertiary_education_syrian_refugees_lebanon.pdf>
-
-- El-Ghali (2019) – *Syrian Refugee Students in Lebanese Higher Education: Recognition of Qualifications and Beyond* (AUB – IFI)  
-  <https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2019-2020/20190107_syrian_refugee_students_in_lebanese_higher_education.pdf>

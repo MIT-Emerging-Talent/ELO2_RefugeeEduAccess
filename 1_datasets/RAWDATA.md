@@ -117,56 +117,37 @@ Provides evidence and design lessons for scholarship-based interventions aimed a
 
 ---
 
-## 5. El-Ghali et al. (2019) – Tertiary Education for Syrian Refugees in Lebanon
+## 5. Refugee Education Dataset (Excel)
 
-**Source:** Issam Fares Institute for Public Policy and International Affairs, American University of Beirut  
+**Source:** Compiled public education and refugee-related indicators  
 
-**Official Source Link:**  
-https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2018-2019/20190402_tertiary_education_syrian_refugees_lebanon.pdf  
+**Official Source File:**  
+[`REFD (2024) Refugee Education Financing Dataset`](../1_datasets/raw_datasets_files/REFD%20(2024)%20Refugee%20Education%20Financing%20Dataset.xlsx)
+
+
 
 **Description:**  
-Policy brief describing financial, legal and language barriers facing Syrian refugees who try to enter Lebanese universities, with basic enrolment statistics from 2013–2018.  
+Structured Excel dataset containing numerical indicators related to refugee
+education access, enrolment, and participation across different contexts. The
+file includes tabular data suitable for statistical analysis, comparison, and
+visualization.
 
 **Relevance to Problem:**  
-Used as a country case study to show how global challenges appear in a specific context and to identify gaps in existing support programmes.
+Provides machine-readable data that supports quantitative analysis of refugee
+access to higher education and helps identify patterns, gaps, and disparities
+that can inform data-driven and AI-assisted opportunity mapping.
 
 **Classification by Data Type:**
 
-- **Quantitative (Numerical) Data:** Enrolment counts and simple percentages over time.  
-- **Qualitative (Descriptive) Data:** Explanations of barriers, policy environment and support gaps.
+- **Quantitative (Numerical) Data:** Enrolment figures, participation rates,
+  counts, and other measurable indicators.
 
 **Classification by Structure:**
 
-- **Structured Data:** Short PDF with clear sections and a small number of tables/figures.
+- **Structured Data:** Spreadsheet format with rows, columns, headers, and
+  consistent data fields, suitable for use in data science workflows.
 
 **Classification by Access Type:**
 
-- **Public Data:** Openly accessible policy brief.
-
----
-
-## 6. El-Ghali (2019) – Syrian Refugee Students in Lebanese Higher Education
-
-**Source:** Issam Fares Institute, American University of Beirut  
-
-**Official Source Link:**  
-https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2019-2020/20190107_syrian_refugee_students_in_lebanese_higher_education.pdf  
-
-**Description:**  
-Research report focusing on documentation and recognition-of-qualifications issues for Syrian refugee students, including tables and charts on enrolment, exam outcomes and diploma equivalence.  
-
-**Relevance to Problem:**  
-Provides detailed quantitative and qualitative evidence on legal and administrative barriers that prevent refugee youth from accessing or completing higher education.
-
-**Classification by Data Type:**
-
-- **Quantitative (Numerical) Data:** Tables with enrolment, exam and recognition statistics.  
-- **Qualitative (Descriptive) Data:** Interview findings, policy discussion and recommendations.
-
-**Classification by Structure:**
-
-- **Structured Data:** Full research report with chapters, tables, charts and annexes.
-
-**Classification by Access Type:**
-
-- **Public Data:** Report is freely downloadable from the AUB / IFI website.
+- **Public / Open Data:** Dataset compiled from publicly available sources and
+  provided in Excel format for transparency and reproducibility.
