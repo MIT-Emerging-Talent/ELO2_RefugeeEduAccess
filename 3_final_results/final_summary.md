@@ -1,7 +1,7 @@
 # Final Summary – Bridging the Gap: Higher Education for Refugee Youth
 
 This folder contains the final results of our capstone project  
-**“Bridging the Gap: Higher Education for Refugee Youth.”**
+**“Bridging the Gap: Higher Education for Refugee Youth Using AI and Data Science.”**
 
 The main public artifact is our PowerPoint presentation, which gives a clear
 story of the problem, the barriers, the existing support programmes, and our
@@ -13,9 +13,10 @@ recommendations.
 
 Our original goal was to:
 
-- Map **systemic barriers** to higher education for refugee youth (especially in Lebanon).
-- Analyse **existing support programmes** (scholarships, NGOs, online learning, bridging programmes).
-- Identify **gaps and opportunities** to make access to higher education more fair.
+- Map **systemic barriers** to higher education for refugee youth (especially in Lebanon).  
+- Analyse **existing support programmes** (scholarships, NGOs, online learning, bridging programmes).  
+- Identify **gaps and opportunities** to make access to higher education more fair.  
+- Explore how **data science and AI-assisted tools** could help organise information and improve access to higher-education opportunities.  
 
 ---
 
@@ -104,11 +105,31 @@ Based on our research and small data analysis, we suggest:
 
 ---
 
-## 6. Files in This Folder
+## 6. Role of AI and Data Science (Proposed Direction)
 
-- `Bridging_the_Gap_Final_Presentation.pptx`  
-  Our final slide deck summarising:
-  - the problem
-  - barriers
-  - supports
-  - recommendations
+In addition to policy and programme reforms, this project highlights the
+potential role of **data science and AI-assisted tools** in reducing
+information gaps. Many scholarships and support programmes are difficult to
+discover because they are scattered across unstructured web pages and reports.
+
+Using lightweight **Natural Language Processing (NLP)** and data structuring,
+future systems could:
+- organize fragmented scholarship information into searchable formats  
+- improve visibility of opportunities  
+- support better matching between student profiles and available programmes  
+
+This approach is intended as a **support tool**, not an automated decision
+system, to improve access to higher education information.
+
+---
+
+## 7. Files in This Folder
+
+- [Final Presentation](Final_Presentation.pptx)
+
+Our final slide deck summarising:
+- the problem  
+- barriers  
+- supports  
+- recommendations  
+

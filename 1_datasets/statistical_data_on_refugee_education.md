@@ -25,8 +25,19 @@ the barriers they face, and the role of scholarships and support programmes.
   - scholarship-supported pathways
   - blended or connected learning models.
 
-
 ---
+
+### 📷 Related Visuals
+
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+  <img
+    src="./visuals/picture.png"
+    width="700"
+    alt="DAFI 2022 Data Snapshot"
+  />
+</div>
+<!-- markdownlint-enable MD033 -->
 
 ## 🚧 Key Barriers to Higher Education
 

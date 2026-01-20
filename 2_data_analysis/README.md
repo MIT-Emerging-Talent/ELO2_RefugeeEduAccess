@@ -1,44 +1,56 @@
-# 2_data_analysis – Refugee Higher Education
+# 2_data_analysis
 
-This folder provides **quick, lightweight insights** into refugee access to higher education.  
-The goal is to turn basic numbers from UNHCR and other sources into **simple tables and visuals** that show where the largest enrolment gaps occur.
+This folder documents the analytical perspective of the project
+**ELO2_RefugeeEduAccess**, with a focus on how data science and AI-assisted
+methods could help reduce information gaps in access to higher education for
+refugee and displaced youth.
 
----
-
-## What This Folder Does
-
-- Tracks **enrolment patterns** across primary → secondary → tertiary levels  
-- Highlights the **sharp drop** at the university stage  
-- Prepares **clean charts and summary tables** for use in reports and presentations  
-- Organises data so the team can spot trends without heavy statistics
+Rather than performing large-scale modelling, this stage outlines how
+fragmented scholarship and programme information can be structured and
+prepared for opportunity discovery.
 
 ---
 
-## Files
+## 🤖 Role of Data Science and NLP
 
-### `summary_table.xlsx`
-Contains the core indicators:
-- Enrolment rates by level  
-- Changes in tertiary enrolment over time  
-- Compact notes on sources  
+Many higher-education opportunities are described in **unstructured text**
+(web pages, PDFs, reports), which makes comparison and navigation difficult.
 
-Used as the base file for all visualisations.
+This project introduces the idea of using **Natural Language Processing (NLP)**
+to:
+- extract key attributes from textual descriptions (e.g., eligibility, funding,
+  deadlines, language requirements)
+- organize this information into structured form
+- support clearer visibility of available pathways
 
-### Image Files
-Visual assets that show:
-- Enrolment levels side-by-side  
-- The tertiary education gap  
-- Simple graphics taken or adapted from reports  
-
-These visuals feed directly into the final results section.
+The aim is to demonstrate how lightweight NLP and data analysis can improve
+access to information, rather than to build a full automated system.
 
 ---
 
-## Why This Folder Matters
-The analysis here gives the project:
-- A **numerical snapshot** of where refugee students are being left behind  
-- Evidence that supports our later arguments and recommendations  
-- Reusable visuals for presentations, dashboards, and documentation  
+## 📊 Analytical Observations
 
-This folder doesn’t create new data — it **clarifies and amplifies** what existing data already shows.
+Based on the reviewed datasets and domain material, several consistent patterns
+emerge:
 
+- Access to higher education among refugee youth remains **below 10% globally**,
+  compared to more than **40%** among non-refugee youth.
+- Scholarship and support programmes are **highly fragmented**, with eligibility
+  rules, deadlines, and coverage varying widely across providers.
+- A significant share of opportunities are **poorly documented or difficult to
+  discover**, especially for students lacking guidance or digital access.
+- Funding and support are concentrated among a **small number of major actors**,
+  while many smaller programmes remain scattered and hard to navigate.
+
+These observations motivate the use of data structuring and NLP techniques to
+reduce information friction and improve opportunity discovery.
+
+---
+
+## 🔗 Related Folders
+
+- [`0_domain_study/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/0_domain_study) 
+
+- [`1_dataset/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/1_datasets) 
+
+- [`3_final_results/`](https://github.com/MIT-Emerging-Talent/ELO2_RefugeeEduAccess/tree/main/3_final_results)
